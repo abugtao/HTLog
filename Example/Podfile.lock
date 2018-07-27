@@ -1,0 +1,16 @@
+PODS:
+  - HTLog (0.1.0)
+
+DEPENDENCIES:
+  - HTLog (from `../`)
+
+EXTERNAL SOURCES:
+  HTLog:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HTLog: 91e3c0cc54aded76ba26446d23c1587742430e41
+
+PODFILE CHECKSUM: 9ca3a6e7dd08d25a29da2e2b6a3154fcab2ca6a2
+
+COCOAPODS: 1.4.0

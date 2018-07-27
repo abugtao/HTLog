@@ -1,0 +1,6 @@
+framework module Pods_HTLog_Tests {
+  umbrella header "Pods-HTLog_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
